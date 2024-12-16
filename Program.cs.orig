@@ -36,4 +36,8 @@ app.UseEndpoints(endpoints =>
 
 app.Run();
 
+<<<<<<< HEAD
+=======
+// this is commit1 on feature branch
 // this is commit2 on feature branch
+>>>>>>> 3f6682d (commit2 on feature branch)
